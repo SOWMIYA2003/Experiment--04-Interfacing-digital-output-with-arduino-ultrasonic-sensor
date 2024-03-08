@@ -110,9 +110,10 @@ void loop()
 ```
 ### OUTPUT :
 #### When the obstacle is far :
-![op](./aq2.png)
-#### When the obstacle is near : 
+
 ![op](./az.png)
+#### When the obstacle is near : 
+![op](./aq2.png)
 ### Distance vs measurement table 
 
 ![op](./aq1.png)
